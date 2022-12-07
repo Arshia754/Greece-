@@ -1,0 +1,75 @@
+body
+{
+  font-family: times Georgia, 'Times New Roman', Times, serif;
+  background-color: whitesmoke;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+  font-size: 18px;
+}
+.lego {
+  text-align: right;
+  color: black;
+}
+.red {
+
+  font-size:18px;
+  text-align: left;
+}
+.m
+{
+  text-align: left;
+}
+p{
+  font-size: 20px;
+  font-family: Calibri;
+}
+ .button {
+  background-color: Black;
+  border-radius: 30px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.container {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 90%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  font-size:28px;
+}
+
+.center {
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size:28px;
+}
+.newt {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+
+table{ 
+    width: 1530px;
+}
+.cedric {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+
